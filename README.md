@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a Flutter Developer, and currently working on a project where user can stream music.<br>👯 I am looking to collaborate with like minded people and become a part of a developer community.<br>🌱 I am currently learning advance topics and extensions in flutter like Riverpod, Providers, etc.<br><br>
+🔭 I am a Flutter Developer, and currently expanding my knowledge to Blockchain and Solidity.<br>👯 I am looking to collaborate with like minded people and become a part of a developer community.<br>🌱 I am currently learning advance topics and extensions in flutter like Riverpod, Providers, etc.<br><br>
 
 
 ## 🌐 Socials:
